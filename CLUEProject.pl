@@ -1,11 +1,8 @@
 /* 
+Created In Collaboration By:
 Robert Thompson 
-Student number: XXXXXXXX
-CS id: XXXX
-
 Selene Baez
-Student number: XXXXXXXX
-CS id: XXXX
+
 
 DOCUMENTATION
 
